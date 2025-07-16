@@ -1,4 +1,4 @@
-# 🎭 Beyond the Screen: Your Digital Footprint as Persona
+# 🎭 PersonaForge: Your Digital Footprint as Persona
 
 > “Reconstruct real Reddit personas with explainable AI – powered by embeddings, vector search, and local language models.”
 
@@ -12,7 +12,107 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ---
+---
 
+## 📊 How It Works: Workflow Explained
+
+Here’s how the system works from start to finish:
+     ┌──────────────────────┐
+     │  Reddit Username /   │
+     │   Profile URL        │
+     └────────┬─────────────┘
+              │
+              ▼
+     ╔════════════════╗
+     ║  PRAW          ║  ← Reddit API fetches posts/comments
+     ╚════════════════╝
+              │
+              ▼
+     ╔═════════════════════════╗
+     ║ SentenceTransformer     ║ ← Embeds each post/comment into a vector
+     ║ (MiniLM-L6-v2)          ║
+     ╚═════════════════════════╝
+              │
+              ▼
+     ╔═════════════════════════╗
+     ║      FAISS Index        ║ ← Stores all semantic vectors
+     ╚═════════════════════════╝
+              │
+     ┌────────▼────────┐
+     │  RAG Retrieval  │ ← For each persona field (habits, goals, etc.)
+     └────────┬────────┘
+              │
+    Uses Top-N Most Relevant Reddit Snippets
+              │
+              ▼
+     ╔═════════════════════════╗
+     ║    Local LLM (Mistral)  ║ ← Via Ollama
+     ╚═════════════════════════╝
+              │
+   Returns rich persona text with source links
+              ▼
+     ╔═════════════════════╗
+     ║ persona_report.txt  ║ ← Output is saved with link-backed citations
+     ╚═════════════════════╝
+****
+
+---
+
+## 📦 Core Technologies & Axioms
+
+| 🔧 Component         | 💬 Description |
+|----------------------|-----------------|
+| ![PRAW](https://img.shields.io/badge/Reddit%20API-PRAW-red) | Fetches public posts/comments for any Reddit user |
+| ![Embedding](https://img.shields.io/badge/NLP-Embeddings-purple) | `all-MiniLM-L6-v2` from SentenceTransformer to convert posts into vectors |
+| ![FAISS](https://img.shields.io/badge/VectorStore-FAISS-orange) | Fast Approximate Nearest Neighbor Search (for retrieving similar posts/comments) |
+| ![Ollama](https://img.shields.io/badge/LLM-Mistral_7B-lightgrey) | Local language model run via Ollama for natural language reasoning |
+| ![RAG](https://img.shields.io/badge/Methodology-RAG-green) | Retrieval-Augmented Generation → respiration via vector search |
+| ![Output](https://img.shields.io/badge/Output-Readable%20Persona-yellow) | Generates `.txt` report with cited evidence for all claims |
+
+---
+
+## 🚩 Why RAG?
+
+**RAG (Retrieval-Augmented Generation)** combines two ideas:
+- 📚 **Retrieval:** Before asking a question (e.g. "What are the user’s motivations?"), it retrieves the most semantically relevant Reddit posts from the user's history.
+- 🤖 **Generation:** Then it passes those to a local LLM (Mistral) to **generate** the answer using only that evidence.
+
+### 🔐 Benefits:
+- **Grounded in real content**
+- **Citations are traceable with Reddit permalink links**
+- **Works offline** — No OpenAI API, No cloud LLMs
+- **User privacy respected**
+
+---
+
+## 🎯 What Makes PersonaForge Special?
+
+✅ Local-first Privacy  
+✅ Fully Explainable Personas  
+✅ Cites real Reddit links for every claim  
+✅ Modular + Extensible (drop in new LLM, fields, custom template)
+
+---
+
+## ▶️ Example Persona Output
+=== MOTIVATION ===
+The user is motivated by seeking ways to stretch their money (Snippet [1], Link: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/), learning about the experiences of H1B holders in the US (Snippets [4], [6]), and expressing gratitude for the opportunities they've found in the US as an H1B holder (Snippet [7], Link: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/). They also seem interested in discussing the topic of exploitation of H1B holders (Snippets [4], [6]).
+
+Citations:
+- https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+- https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+- https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+
+
+---
+
+
+
+---
+
+
+
+---
 ## 🚀 Quick Start
 
 ### 1️⃣ Prerequisites
