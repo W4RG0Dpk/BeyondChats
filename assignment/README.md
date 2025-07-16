@@ -1,4 +1,4 @@
-# 🎭 PersonaForge: Reddit User Persona Generator
+# 🎭 Beyond the Screen: Your Digital Footprint as Persona
 
 Turn real Reddit conversations into richly-cited, AI-generated user personas.  
 Built on local semantic search, Retrieval-Augmented Generation (RAG), and private LLM inference—**no data leaves your device.**
@@ -87,5 +87,44 @@ assignment/
 ├── persona_report-2.txt
 └── reddit_user_data-1.json
 └── reddit_user_data-2.json
+
+---
+
+## ⚡ requirements.txt
+
+praw==7.7.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+numpy==1.24.3
+*Ollama and your embedding model are managed outside pip.*
+
+---
+
+## ⭐ Features
+
+- 📨 Scrapes Reddit posts/comments by username or URL.
+- 🧮 Embeds content semantically with **MiniLM L6**.
+- 🔍 RAG with **local FAISS** vector DB for efficient evidence retrieval.
+- 🤖 Local inference with **Mistral LLM via Ollama**.
+- 🔗 Evidence-rich persona profiles with direct Reddit links.
+- 🛡️ 100% offline/private model execution, no cloud LLM needed.
+
+---
+
+
+---
+
+## 🤝 Need Help?
+
+- [Ollama Support](https://ollama.com/)
+- [Sentence-Transformers Docs](https://www.sbert.net/)
+- [Reddit/PRAW Documentation](https://praw.readthedocs.io/)
+
+---
+## To contact me 
+email: velamalapavankrishna@gmail.com
+insta: pavankrishna_v
+
+Thank you! 🧠✨
 
 
