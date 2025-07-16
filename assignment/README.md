@@ -187,13 +187,21 @@ To see Full implementation with explanation look at the assigment.ipynb
 
 ## 🛠️ Folder Structure
 assignment/
+
 ├── requirements.txt
+
 ├── README.md
+
 └── assignment.ipynb
+
 └── pyscript final code.py
+
 ├── persona_report-1.txt
+
 ├── persona_report-2.txt
+
 └── reddit_user_data-1.json
+
 └── reddit_user_data-2.json
 
 ---
