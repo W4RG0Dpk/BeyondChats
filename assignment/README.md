@@ -1,7 +1,6 @@
 # 🎭 Beyond the Screen: Your Digital Footprint as Persona
 
-Turn real Reddit conversations into richly-cited, AI-generated user personas.  
-Built on local semantic search, Retrieval-Augmented Generation (RAG), and private LLM inference—**no data leaves your device.**
+> “Reconstruct real Reddit personas with explainable AI – powered by embeddings, vector search, and local language models.”
 
 ---
 
