@@ -1,7 +1,14 @@
 # 🎭 Beyond the Screen: Your Digital Footprint as Persona
 
 > “Reconstruct real Reddit personas with explainable AI – powered by embeddings, vector search, and local language models.”
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-orange)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformer-Embeddings-purple)
+![Ollama](https://img.shields.io/badge/Ollama-Mistral_7B-black)
+![RAG](https://img.shields.io/badge/Architecture-RAG-brightgreen)
+![Reddit](https://img.shields.io/badge/API-Reddit-blueviolet)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ---
 
 ## 🚀 Quick Start
