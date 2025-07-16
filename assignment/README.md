@@ -17,7 +17,7 @@
 ## 📊 How It Works: Workflow Explained
 
 Here’s how the system works from start to finish:
-'''
+
      ┌──────────────────────┐
      │  Reddit Username /   │
      │   Profile URL        │
@@ -50,12 +50,12 @@ Here’s how the system works from start to finish:
      ║    Local LLM (Mistral)  ║ ← Via Ollama
      ╚═════════════════════════╝
               │
-   Returns rich persona text with source links
+     Returns rich persona text with source links
               ▼
      ╔═════════════════════╗
      ║ persona_report.txt  ║ ← Output is saved with link-backed citations
      ╚═════════════════════╝
-     '''
+     
 ****
 
 ---
