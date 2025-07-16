@@ -1,0 +1,190 @@
+ Persona Report for Reddit User: Hungry-Move-6603
+
+
+=== GENDER ===
+The user's gender is not explicitly stated in the provided snippets.
+
+=== AGE ===
+The user is likely young, possibly a student or someone who spends time in student-oriented communities. This inference is based on their posts relating to topics such as a Reddit subreddit for discussing attractive people (Snippet [1], Link: https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/), reading clubs and cafes (Snippets [4] and [5], Links: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/ and https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/) and seeking productive weekend activities (Snippet [6], Link: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/). Additionally, the user mentions having moved to Lucknow for business purposes, which suggests they may be studying or working in a field that allows them some flexibility (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/). The user's casual use of Internet slang and humor in their posts also indicates a relatively young age (Snippet [7], Link: https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/).
+
+Citations:
+- <https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/>
+- <https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/>
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/>
+- <https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/>
+- <https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/>
+- <https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/>
+
+=== BUILD ===
+The user resides in Lucknow, India (Snippet [4], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) and originally comes from Delhi, India (Snippet [4], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/). The user is interested in finding productive weekend activities in Lucknow (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/) and reading cafes or clubs in the city (Snippet [5], Link: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/). The user seeks a healthy, quick, and easy-to-cook/process meal menu (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/) and has expressed dissatisfaction with their appearance in the past (Snippet [6], Link: https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/).
+
+Citations:
+- <https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/>
+- <https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/>
+- <https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/>
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/>
+
+=== HAIR ===
+The user's hair is not explicitly mentioned in the provided snippets. However, it can be inferred that the user might reside in Lucknow (Snippet [2]) based on their activity on a Lucknow-related subreddit. But this does not provide any information about their hair.
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- Other snippets do not contain any location or hair-related information.
+
+=== SKIN TONE ===
+The user appears to be of Indian descent, possibly from Lucknow (Snippet [1], [5]), and potentially resides in or around Noida or Ghaziabad (Snippet [6]). However, there is no direct indication of the user's skin tone in these snippets.
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/
+
+=== CLOTHING ===
+Based on the provided snippets, there is no direct mention of the user's clothing. However, some inferences can be made regarding the user's location and background. The user appears to reside or have a connection with Lucknow (LKO) and Delhi, as indicated by their interactions on Reddit forums for those cities (Snippets [1], [2], [3], [4]). Additionally, they seem to have shifted to Lucknow for business purposes (Snippet [3]).
+
+Citations:
+- Snippet [1]: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activies_in_lko/
+- Snippet [2]: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+- Snippet [3]: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- Snippet [4]: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- Snippet [3]: https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/ (implied connection to Delhi)
+
+=== SETTING ===
+The user appears to be living in Lucknow, India (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/) or has recently moved there for business purposes from Delhi (Snippet [6], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/). They seem to be interested in finding productive weekend activities, reading cafes, and exploring the city (Snippets [2] and [5], Links: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/, https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/). However, they may have had some negative experiences related to scams and questionable businesses in Lucknow (Snippet [4], Link: https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/
+
+=== POSTURE ===
+The user appears to be living in Lucknow, India, based on their active participation and posts about the city (Snippets [2], [3], [4]). They also mention shifting to Lucknow for business purposes (Snippet [7]). However, they express frustration towards certain individuals in the city, suggesting a tense or uncomfortable environment (Snippet [1]). Additionally, they show interest in productive weekend activities and reading clubs, indicating a desire for leisure and intellectual pursuits (Snippet [4]). Lastly, they make jokes about moving to neighboring cities like Noida or Ghaziabad due to perceived issues in Lucknow (Snippet [6]).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/
+- https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+
+=== OVERALL IMPRESSION ===
+The user seems to have a negative impression of Lucknow, India, based on their experiences there. They describe the city as having a high number of cars with stickers that they have not seen in other cities, specifically Delhi (Snippet [7]). They also mention these stickers are often associated with various local organizations such as government, police, and legal bodies (Snippets [4], [5]). The user also expresses frustration about what they perceive as a scam (Snippet [2]) and finds the city unproductive compared to their previous residence in Delhi (Snippet [3]). However, they do appreciate a healthy food menu they found there (Snippet [6]).
+
+Citations:
+- <https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/>
+- <https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/>
+- <https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/>
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/>
+
+=== FASHION SENSE ===
+The user's current location is Lucknow, India (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) as indicated by their frequent posts about the city and its culture. They seem to be engaged in business activities in Lucknow (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/). They also show interest in productive weekend activities, reading clubs, and healthy food options (Snippets [2], [5], [7], Links: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/, https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/, https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/). The user appears to find the prevalence of political stickers on cars in Lucknow unusual, possibly suggesting a casual and informal attitude towards politics (Snippet [6], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2igp7d/).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/
+
+=== LIFESTYLE CUES ===
+The user appears to reside in Lucknow, India (Snippet [4], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) and has recently moved there from Delhi for business purposes (Snippet [4], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/). The user seems interested in finding tiffin services that provide quality food (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/) and productive weekend activities in Lucknow (Snippet [2], Link: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/). The user also mentions having an interest in reading cafes or clubs (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/). The user expresses frustration towards scams or dishonest practices (Snippet [5], Link: https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/) and seems concerned about the high number of cars in Lucknow displaying government-related stickers (Snippets [4], [6], Links: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/, https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2ihjjp/). The user mentions having a desire to confront those who engage in harassment (Snippet [7], Link: https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/).
+
+Citations:
+- <https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/>
+- <https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/>
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/>
+- <https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/>
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2ihjjp/>
+- <https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/>
+
+=== FRUSTRATIONS ===
+The user seems to express frustration with the following issues based on the provided snippets:
+
+1. In Lucknow, it appears that many vehicles have stickers displaying various titles or positions, such as government officials, police, or lawyers (Snippet [1]).
+2. The user has mentioned being harassed by a 45-year-old man and expresses a desire to teach the harasser a lesson (Snippet [2]).
+3. There seems to be a lack of productive weekend activities mentioned for Lucknow (Snippet [3]), which may suggest that the city lacks options or they are not well-known.
+4. The user expresses skepticism about job postings in Delhi, implying potential scams (Snippet [4]).
+5. Despite acknowledging some problems with Delhi, the user indicates that Lucknow also has similar issues with vehicles displaying titles or positions (Snippet [5]).
+6. The user questions the existence of Reading Cafe/Reader's Club in Lucknow (Snippet [6]), which may indicate dissatisfaction with the city's cultural offerings.
+7. Lastly, the user indicates dissatisfaction with their appearance based on a comment in an "amiugly" subreddit (Snippet [7]).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/
+
+=== BEHAVIORS ===
+The user is currently residing in Lucknow, India (Snippet [2], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) and has previously lived in Delhi (Snippet [2]). They seem to be active on various subreddits related to India, such as r/IndiaUnfilter (Snippet [6]) and r/indiasocial (Snippet [7]). The user appears to be frustrated with certain behaviors they've encountered in Lucknow, including what they perceive as scams (Snippet [3]) and harassment (Snippet [7]). They also show interest in productive weekend activities in Lucknow (Snippet [1]) and visiting reading clubs or cafes in the city (Snippet [4]). Lastly, they seem to have a dark sense of humor as demonstrated by their comment about starting a brawl in Noida or Ghaziabad (Snippet [6]).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lwyyhny/everyone_is_something_in_lko/
+- https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7g0s/
+- https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+- https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/
+
+=== HABITS ===
+The user resides in Lucknow, India (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) and originally hails from Delhi (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/). The user frequently discusses topics related to the city such as finding productive weekend activities (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/) and looking for reading cafes or clubs (Snippet [5], Link: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/). The user is concerned about food quality, often discussing issues with tiffin services in Lucknow and expressing frustration over finding healthy, easy-to-cook meals (Snippet [2], Link: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/, Snippet [7], Link: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2hvomb/). The user also shows concern about local scams (Snippet [6], Link: https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/).
+
+Citations:
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/>
+- <https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/>
+- <https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/>
+
+=== GOALS AND NEEDS ===
+The user, who moved to Lucknow from Delhi for business purposes, is seeking productive weekend activities in Lucknow (Snippet [1]), a menu that is easy to cook or process and promotes healthy eating (Snippet [2]). They also show interest in joining a Reading Cafe or Reader's Club (Snippet [3]). The user seems to be cautious about potential scams in the city, as indicated by their comment (Snippet [4]). They have observed that many residents of Lucknow identify themselves with various titles on their cars, suggesting a sense of local pride or status (Snippet [5]). Additionally, they make a humorous comment about starting to control traffic from Noida or Ghaziabad (Snippet [6]), possibly indicating frustration with the city's traffic situation. Lastly, they have posted a selfie on r/amiugly and received a below-average rating (Snippet [7]).
+
+Citations:
+- <https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/>
+- <https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/>
+- <https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/>
+- <https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/>
+- <https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/>
+- <https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/>
+- <https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/>
+
+=== MOTIVATION ===
+The user appears to be seeking suggestions for productive weekend activities in Lucknow, India (Snippet [1], Link: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/) and looking for recommendations for a Reading Cafe or Reader's Club in Lucknow (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/). The user also mentions shifting to Lucknow from Delhi for business purposes (Snippet [2], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) and expresses dissatisfaction with a tiffin service in Lucknow, suggesting they are interested in finding high-quality food services (Snippet [6], Link: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/). Additionally, the user seems to be critical of a potential scam related to job hiring (Snippet [4], Link: https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/) and humorously suggests starting to harass people from Noida or Ghaziabad (Snippet [5], Link: https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/). Lastly, the user has expressed self-consciousness about their appearance and received a below average rating in an 'amiugly' post (Snippet [7], Link: https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/
+- https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/
+- https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+- https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/
+
+=== PERSONALITY ===
+The user appears to be a resident of Lucknow, India (Snippet [3], Link: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/) and may have previously lived in Delhi, as indicated by the comment about shifting to Lucknow for business purposes (Snippet [3]). The user seems to be interested in productive weekend activities and reading clubs in their current city (Snippets [4], [5]). They also seem to express a sense of humor, as seen in their comment about starting to complain about traffic from Noida or Ghaziabad if they moved there (Snippet [6], Link: https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/). However, their comment about scams (Snippet [2], Link: https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/) and the description of many vehicles in Lucknow having stickers claiming various titles (Snippet [3]) suggest a cynical view towards some aspects of their current city.
+
+Citations:
+- https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/
+- https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+
+=== PERSONA QUOTE ===
+The user appears to be a resident of Lucknow, India (Snippet [3]), who recently moved from Delhi for business purposes (Snippet [3]). They seem interested in productive activities in Lucknow (Snippet [2]) and have expressed dissatisfaction with the city's current state, particularly the high cost of rents despite low demand (Snippet [7]). The user also seems to be familiar with local slang, as indicated by their comment about starting a business in Noida or Ghaziabad causing a food shortage (Snippet [5], translated: "Then let's start troubling the people of Noida or Ghaziabad, right? Hunger will come"). However, they also seem skeptical, as indicated by their comment about a potential scam (Snippet [4]) and their below-average self-assessment (Snippet [6]).
+
+Citations:
+- https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+- https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/
+- https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+- https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/
+- https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g4ea/
